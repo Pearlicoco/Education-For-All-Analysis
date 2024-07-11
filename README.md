@@ -1,6 +1,6 @@
 INTRODUCTION
 
-This is an in-depth analysis performed on a dataset gotten from entrylevel.net and it contains two tables ‘donation data’ and ‘donors data’. When merged together, they contain 1000 records and 15 attributes. The dataset contains information of registered donors for the fundraiser, information such as id, first name, last name, emails, gender, job field, donor’s state, donations, and donation frequency etc.
+This is an in-depth analysis performed on a dataset gotten from an NGO and it contains two tables ‘donation data’ and ‘donors data’. When merged together, they contain 1000 records and 15 attributes. The dataset contains information of registered donors for the fundraiser, information such as id, first name, last name, emails, gender, job field, donor’s state, donations, and donation frequency etc.
 
 BUSINESS PROBLEM
 
